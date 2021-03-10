@@ -18,5 +18,5 @@ O projeto se trata de uma lista de tarefas que armazena os dados localmente no n
 - [x] Removemos dados do localStorage utilizando o método **splice()**.<br><br>
 
 <h1>
-  <img alt="NextLevelWeek" src="./assets/img/lista-de-tarefas.jpg" />
+  <img alt="Lista de Tarefas" src="./assets/img/lista-de-tarefas.jpg" />
 </h1>

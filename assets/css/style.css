@@ -8,6 +8,7 @@ body {
   justify-content: center;
   width: 100vw;
   min-height: 100vh;
+  background-color: darkslategrey;
 }
 
 .todo-list {
@@ -159,4 +160,7 @@ body {
   text-decoration: line-through;
 }
 
+p.content-data{
+  color: #FFF;;
+}
 /*# sourceMappingURL=style.css.map */

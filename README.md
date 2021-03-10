@@ -1,6 +1,5 @@
-<h1>Lista de Tarefas </h1>
+<h1>Lista de Tarefas :page_with_curl: </h1>
 
-:checkered_flag:
 
 Neste repositório consta o projeto criado nos cursos da [Alura](https://www.alura.com.br/):
 
@@ -18,4 +17,6 @@ O projeto se trata de uma lista de tarefas que armazena os dados localmente no n
 - [x] Ordenamos elementos de um array com o método **sort()**<br>
 - [x] Removemos dados do localStorage utilizando o método **splice()**.<br><br>
 
-<img src='.\assets\img\lista-de-tarefas.jpg'>
+<h1>
+  <img alt="NextLevelWeek" src="./assets/img/lista-de-tarefas.jpg" />
+</h1>
